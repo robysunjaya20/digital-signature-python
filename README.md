@@ -37,4 +37,26 @@ The system applies **public key cryptography** to ensure:
 ---
 
 ## 📁 Project Structure
-
+digital-signature/
+│
+├── backend/
+│ ├── main.py
+│ ├── crypto/
+│ │ ├── sign.py
+│ │ ├── verify.py
+│ │ ├── qr.py
+│ │ ├── pdf_signature.py
+│ │ └── merge_pdf.py
+│ ├── utils/
+│ │ └── verification_id.py
+│ └── verification_registry.json
+│
+├── uploads/
+├── keys/
+│ ├── private.key
+│ └── public.key
+│
+├── static/
+│ └── bg.jpg
+│
+└── README.md
