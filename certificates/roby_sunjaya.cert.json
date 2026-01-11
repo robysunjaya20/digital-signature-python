@@ -1,0 +1,20 @@
+{
+  "version": "Mini X.509 v1",
+  "serial_number": "RS-2026-0001",
+  "subject": {
+    "name": "Roby Sunjaya",
+    "email": "robysunjaya9@gmail.com",
+    "organization": "Universitas Pelita Bangsa"
+  },
+  "issuer": {
+    "name": "Digital Signature CA",
+    "country": "ID"
+  },
+  "validity": {
+    "not_before": "2026-01-01T00:00:00Z",
+    "not_after": "2028-01-01T00:00:00Z"
+  },
+  "public_key": "BASE64_PUBLIC_KEY",
+  "signature_algorithm": "Ed25519",
+  "ca_signature": "BASE64_SIGNATURE"
+}

@@ -1,0 +1,229 @@
+{
+  "f042e7c309": {
+    "filename": "cv ats hary irfansyah.pdf",
+    "document_hash": "FMrwSp0EjJyLoSFnvhTXNX6pd5+bf501qip+wDZO3Oo=",
+    "timestamp": "2026-01-02T10:17:24.876175+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "37dcb888f7": {
+    "filename": "cv ats hary irfansyah.pdf",
+    "document_hash": "FMrwSp0EjJyLoSFnvhTXNX6pd5+bf501qip+wDZO3Oo=",
+    "timestamp": "2026-01-02T10:25:10.437230+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "609dd011b7": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T10:44:11.213760+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "f5212c7876": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T10:45:55.074594+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "cfc9e205a1": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T11:11:31.807451+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "90c98637e0": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T11:17:44.087203+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "66fbf19409": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T11:23:48.892008+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "44da8d5ef1": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T11:24:59.201205+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "9dd0b1e6d9": {
+    "filename": "CV Roby.pdf",
+    "document_hash": "sL7TWWG43GRh//MCCUvYoTAx27vaUZ1Juf2Abtyk+rE=",
+    "timestamp": "2026-01-02T11:41:05.490725+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "b690c58ec8": {
+    "filename": "UPB-PM-16-01 PEMBUATAN SERTIFIKAT SEMINAR NARASUMBER PRAKTISI.pdf",
+    "document_hash": "0z8N11oS2Zb/Uo588VQ3GA/87hpCYx5vrC/TDrOYjm0=",
+    "timestamp": "2026-01-02T12:35:25.315297+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "f325b07537": {
+    "filename": "ktm kartu tanda mahasiswa.pdf",
+    "document_hash": "DF17HbE4XGOvfsdHrGwj6iMEOaYmHnOE9JXK5WFieao=",
+    "timestamp": "2026-01-02T12:46:53.137060+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "cc804c2fe1": {
+    "filename": "ktm kartu tanda mahasiswa.pdf",
+    "document_hash": "DF17HbE4XGOvfsdHrGwj6iMEOaYmHnOE9JXK5WFieao=",
+    "timestamp": "2026-01-02T12:54:03.034213+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "5629f94138": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "../uploads/20260104_164701_f66b62",
+    "document_hash": "aC1Vv6izCVnzhysDvc0OxmvB19cqDzWI8icc5Ck0ZEo=",
+    "timestamp": "2026-01-04T09:47:01.295522+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "10bc462539": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "../uploads/20260104_165023_ee822d",
+    "document_hash": "aC1Vv6izCVnzhysDvc0OxmvB19cqDzWI8icc5Ck0ZEo=",
+    "timestamp": "2026-01-04T09:50:23.639033+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "5c014b80ba": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "../uploads/20260104_184621_661449",
+    "document_hash": "aC1Vv6izCVnzhysDvc0OxmvB19cqDzWI8icc5Ck0ZEo=",
+    "timestamp": "2026-01-04T11:46:21.337866+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "6e43d2191e": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "../uploads/20260104_185018_4ffd74",
+    "document_hash": "aC1Vv6izCVnzhysDvc0OxmvB19cqDzWI8icc5Ck0ZEo=",
+    "timestamp": "2026-01-04T11:50:18.455159+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "f35f757a9b": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "../uploads/20260104_185652_0c92ae",
+    "document_hash": "aC1Vv6izCVnzhysDvc0OxmvB19cqDzWI8icc5Ck0ZEo=",
+    "timestamp": "2026-01-04T11:56:52.095711+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "cd49fd4fcb": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "../uploads/20260106_222010_d22d9c",
+    "document_hash": "aC1Vv6izCVnzhysDvc0OxmvB19cqDzWI8icc5Ck0ZEo=",
+    "timestamp": "2026-01-06T15:20:10.837834+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519",
+    "signed_file_hash": "3a05280c4a67c9091c2ec3c87ea302ecc484a370c9f001ea208a4182e3f19126"
+  },
+  "669bc68ee1": {
+    "filename": "312310075_Roby_Sunjaya_Tugas.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_Tugas.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260107_201310_e0c37d",
+    "timestamp": "2026-01-07T13:13:10.595195+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "fe2ddfa561": {
+    "filename": "312310075_Roby_Sunjaya_Tugas.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_Tugas.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260107_202435_568652",
+    "timestamp": "2026-01-07T13:24:35.938001+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "89f26f3e5e": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260107_203319_831192",
+    "timestamp": "2026-01-07T13:33:19.090465+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "acf6d7c1a9": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260107_203913_57a7c6",
+    "timestamp": "2026-01-07T13:39:13.029689+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "e71a7a97c6": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260107_210315_3e4188",
+    "timestamp": "2026-01-07T14:03:15.493127+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "0d0f388da8": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260110_095220_57b663",
+    "timestamp": "2026-01-10T02:52:20.449077+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "52366620fa": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260110_122529_b2bf8c",
+    "timestamp": "2026-01-10T05:25:29.382174+00:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "e4ae0a79a4": {
+    "filename": "312310075_Roby_Sunjaya_UTS.pdf",
+    "signed_filename": "SIGNED_312310075_Roby_Sunjaya_UTS.pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260110_132026_4fa923",
+    "timestamp": "2026-01-10T13:20:26.681941+07:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "bd0998c792": {
+    "filename": "UTS SPK (KELOMPOK 1).pdf",
+    "signed_filename": "SIGNED_UTS SPK (KELOMPOK 1).pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260110_133743_d92655",
+    "timestamp": "2026-01-10T13:37:43.752999+07:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "3526ca6073": {
+    "filename": "UTS SPK (KELOMPOK 1).pdf",
+    "signed_filename": "SIGNED_UTS SPK (KELOMPOK 1).pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260110_134916_352cc4",
+    "timestamp": "2026-01-10T13:49:16.312254+07:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  },
+  "fa0a6f2278": {
+    "filename": "UTS SPK (KELOMPOK 1).pdf",
+    "signed_filename": "SIGNED_UTS SPK (KELOMPOK 1).pdf",
+    "doc_dir": "C:\\RobySunjaya\\Kuliah\\Semester 5\\2. Kriptografi\\p16\\digital-signature\\backend\\../uploads\\20260110_141332_a7e997",
+    "timestamp": "2026-01-10T14:13:32.711198+07:00",
+    "signer": "Roby Sunjaya",
+    "algorithm": "Ed25519"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "algorithm": "Ed25519",
+  "hash_algorithm": "SHA-256",
+  "document_hash": "/0GpgeSBbK+0BMRD6OE2euY8eFrUcxtyb5ykjgstFLg=",
+  "timestamp": "2026-01-10T14:13:32.711198+07:00",
+  "signature": "iKSVrmx8r7FFw3e5bIAcDhwTqcsS9FWEcrEw32ZbXIaXKdg4WOQat4wjBF1lwOCfDGcdCtIODuzNla8zEShzCQ==",
+  "signer": {
+    "name": "Roby Sunjaya",
+    "system": "Digital Signature System v1"
+  }
+}
